@@ -29,3 +29,14 @@ Changes not staged for commit:
         modified:   git_answers.docx
 
 no changes added to commit (use "git add" and/or "git commit -a")
+Answer 8: commit 6bc0ecf7e4f83158ee7a71dff9d30f9c8093b5c1 (HEAD -> master)
+Author: nguyenkhanh <nguyenkhanh760411@gmail.com>
+Date:   Mon Nov 17 08:28:56 2025 +0700
+
+    Initial commit
+
+commit f6c56317701b320f441be6b60d2854d82f1b1985
+Author: nguyenkhanh <nguyenkhanh760411@gmail.com>
+Date:   Mon Nov 17 08:26:09 2025 +0700
+
+    Initial commit
